@@ -885,13 +885,13 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#A3BE8C"
+				"foreground": "#e8dfa6"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#EBCB8B"
+				"foreground": "#eca25e"
 			}
 		},
 		{
