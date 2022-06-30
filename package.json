@@ -1,0 +1,28 @@
+{
+    "name": "nordishcocoa",
+    "displayName": "NordishCocoa",
+    "description": "A beautiful, restful extension of the popular Nord theme.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/NordicCocoa.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "NordishCocoa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NordishCocoa-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gpasq/VisualStudioCodeThemeNordishCocoa"
+    },
+    "publisher": "GregPasquariello",
+    "author": "Greg Pasquariello"
+}
