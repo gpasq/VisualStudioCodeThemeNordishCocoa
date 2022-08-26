@@ -688,7 +688,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#d9b5a8"
+				"foreground": "#a8d9b5"
 			}
 		},
 		{
@@ -846,7 +846,7 @@
 				"punctuation.start.definition.comment"
 			],
 			"settings": {
-				"foreground": "#d9b5a8"
+				"foreground": "#a8d9b5"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 		{
 			"scope": "source.java comment.block.documentation.javadoc punctuation.definition.entity.html",
 			"settings": {
-				"foreground": "#81A1C1"
+				"foreground": "#a8d9b5"
 			}
 		},
 		{
