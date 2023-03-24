@@ -1,1 +1,7 @@
-{}
+{
+    "workbench.colorCustomizations": {
+        "[NordishCocoa]": {
+            "editor.background": "#2e2e2e"
+        }
+    }
+}
